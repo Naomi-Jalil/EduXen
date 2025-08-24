@@ -1,0 +1,4 @@
+com\eduxen\repository\UserRepository.class
+com\eduxen\controller\AuthController.class
+com\eduxen\model\User.class
+com\eduxen\App.class
